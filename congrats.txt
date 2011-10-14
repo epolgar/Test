@@ -6,5 +6,5 @@ Use this repository to test git stuff out - adding, committing, pushing, fetchin
 
 Here's a helpful link if you know SVN: https://git.wiki.kernel.org/index.php/GitSvnCrashCourse
 
-lewis was here....
+lewis used to here.
 so was someone else....
