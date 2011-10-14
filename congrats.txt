@@ -6,10 +6,5 @@
 
 --Here's a helpful link if you know SVN: https://git.wiki.kernel.org/index.php/GitSvnCrashCourse
 
-<<<<<<< HEAD
-lewis used to here.
 so was someone else....
-=======
 --lewis was here....
---so was someone else....
->>>>>>> 668a409... testing 123
