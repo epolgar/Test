@@ -1,10 +1,15 @@
-You made it!!
+--You made it!!
 
-You have successfully cloned your first git repository.
+--You have successfully cloned your first git repository.
 
-Use this repository to test git stuff out - adding, committing, pushing, fetching, pulling.  There are also a number of tutorials on line that can be used as a resource as well.
+--Use this repository to test git stuff out - adding, committing, pushing, fetching, pulling.  There are also a number of tutorials on line that can be used as a resource as well.
 
-Here's a helpful link if you know SVN: https://git.wiki.kernel.org/index.php/GitSvnCrashCourse
+--Here's a helpful link if you know SVN: https://git.wiki.kernel.org/index.php/GitSvnCrashCourse
 
+<<<<<<< HEAD
 lewis used to here.
 so was someone else....
+=======
+--lewis was here....
+--so was someone else....
+>>>>>>> 668a409... testing 123
