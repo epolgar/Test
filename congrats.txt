@@ -2,7 +2,7 @@
 
 --You have successfully cloned your first git repository.
 
---Use this repository to test git stuff out - adding, committing, pushing, fetching, pulling.  There are also a number of tutorials on line that can be used as a resource as well.
+--Use this repository to test git stuff out - adding, committing, pushing, fetching, pulling, even more.  There are also a number of tutorials on line that can be used as a resource as well.
 
 --Here's a helpful link if you know SVN: https://git.wiki.kernel.org/index.php/GitSvnCrashCourse
 
